@@ -1,0 +1,21 @@
+.rules{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin-left: 10px;
+    border-bottom: 2px solid rgb(22, 82, 156);
+}
+.room_del h3{
+    text-align: center;
+    color: aliceblue;
+    width: 320px;
+    font-size: medium;
+}
+.room_del {
+    color: aliceblue;
+    width: 280px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top: 5px;
+}

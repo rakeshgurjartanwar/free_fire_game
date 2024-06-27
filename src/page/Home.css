@@ -1,0 +1,73 @@
+
+/* fund section start here */
+.fund{
+    width: 320px;
+    height: 200px;
+}
+.box{
+    background-color: transparent;
+    color: #0d0404;
+    padding: 15px;
+    margin-top: 1rem;
+    margin-left: 12px;
+    margin-right:12px ;
+    margin-bottom: 5px;
+    border-radius: 12px;
+    justify-content: space-between;
+    width: 320px;
+}
+.box h5{
+    color: aliceblue;
+}
+.icon{
+    font-size: 25px;
+    background-color: transparent;
+    color: rgb(247, 249, 247);
+}
+.btn_fund{
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+.btn_fund button{
+    background-color: rgb(30, 83, 255);
+    color: aliceblue;
+    border: none;
+    border-radius: 12px;
+    padding: 8px;
+    text-transform: uppercase;
+}
+.btn_fund button:hover{
+    background-color: #0df973;
+}
+
+
+.Home_dis{
+     width: 320px!important;
+}
+.Home_dis img{
+    border-radius: 18px;
+    padding: 20px;
+    height: 200px;
+    width: 300px;
+    border-radius: 18px;
+}
+.Home_dis img:hover{
+    opacity: 80%;
+    cursor: pointer;
+}
+.join{
+    text-align: center;
+    width: 320px;
+}
+.join button{
+    background-color: #206b40;
+    color: aliceblue;
+    border: none;
+    padding: 10px;
+    border-radius: 25px;
+}
+.join button:hover{
+    background: #0d0404;
+    font-weight: 800;
+}

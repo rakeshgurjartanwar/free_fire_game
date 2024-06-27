@@ -1,0 +1,59 @@
+.topplayer {
+    color: aliceblue;
+    display: flex;
+    /* padding: 1rem; */
+    margin-left: 12px;
+    width: 320px;
+    overflow-x: scroll;
+}
+
+.topplayer::-webkit-scrollbar {
+    width: 0;
+    height: 5px;
+    background: transparent;
+}
+
+.topplayer::-webkit-scrollbar-thumb {
+    height: 5px;
+    background: white;
+    border-radius: 5px;
+}
+
+.topplayer .leader_profile_item {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.topplayer .leader_profile_item img {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+
+.topplayer .leader_profile_item {
+    margin: 0 10px 0 10px;
+}
+
+.topplayer .leader_profile_item p {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+}
+
+.player_list {
+    color: aliceblue;
+    padding-left: 1rem;
+    text-transform: capitalize;
+    justify-content: space-between;
+    display: flex;
+    width: 250px;
+    margin-left: 1rem;
+}
+.bord_box{
+    width: 330px;
+    height: 500px;
+    position: relative;
+    overflow-y: auto;
+    overflow-x: hidden;
+}

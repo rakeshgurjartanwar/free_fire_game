@@ -1,0 +1,53 @@
+h5 {
+    color: aliceblue;
+    text-align: center;
+    width: 320px;
+}
+
+.match_list {
+    width: 320px;
+    height: 500px;
+}
+
+.match_one {
+    display: flex;
+    color: aliceblue;
+}
+
+.img_R img {
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 10px;
+}
+
+.id_del {
+    height: 40px;
+    padding-top: 5px;
+}
+.btn_R a button{
+    font-size: 10px;
+    color: rgb(0, 6, 10);
+    background-color: aliceblue;
+    border: 0cap;
+    font-weight: 800;
+}
+.btn_R a{
+    padding: 1px;
+    padding-left: 8px;
+}
+
+.box {
+    display: flex;
+    gap: 10px;
+    text-transform: capitalize;
+    color: aliceblue;
+    width: 300px;
+    text-align: center;
+    padding-bottom: 0%;
+    padding-top: 0%;
+}
+.two_box{
+    width: 320px;
+    border: 2px solid white;
+}

@@ -1,0 +1,23 @@
+.Header{
+    max-width: 320px;
+    display: flex;
+    text-transform: uppercase;
+}
+.Header h1{
+    font-size: 25px;
+    color: orangered;
+    padding-left: 1rem;
+    padding-top: 8px;
+}
+.Header h2{
+    font-size: 25px;
+    color: rgb(248, 250, 248);
+    padding-left: 10px;
+    padding-top: 7px;
+}
+.Header h3{
+    font-size: 25px;
+    color: rgb(7, 249, 7);
+    padding-left: 10px;
+    padding-top: 8px;
+}
